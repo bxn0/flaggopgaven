@@ -24,13 +24,12 @@ Min forståelse av git og github: 3
 # Malin
 ##### Brukte tid på å forstå det, men hjalp med videoer. Forståelse på 1-2, men hjalp etter jeg fikk det til
 
-______________________________________________________________________________________________________________________________________________________________
-______________________________________________________________________________________________________________________________________________________________
-______________________________________________________________________________________________________________________________________________________________
+
+
 
 # Flaggopgaven;
 
-### Kilder og Refleksjoner (Opp 4a, 4b, 4c):
+## Kilder og Refleksjoner (Opp 4a, 4b, 4c)
 
 
 
@@ -38,12 +37,12 @@ ________________________________________________________________________________
 
 
 
-### Oppgave 5a:
+## Oppgave 5a:
 
 
-### Oppgave 5b:
+## Oppgave 5b:
 
-### Oppgave 5c:
+## Oppgave 5c:
 
 #Oppgave2
 På denne siden velger vi og beskriver en måte å bruke GitHub Projects på. Vi bruker prosjektet til å planlegge, organisere og få oversikt over alle oppgavene. Strukturen er hierarkisk med en master på toppen (Burak), hvor alle resterende gruppemedlemmer under har sin egen branch. Prosjektstrukturen er at alle har egen branch vi jobber på, der alle merger det sammen til en side. 
