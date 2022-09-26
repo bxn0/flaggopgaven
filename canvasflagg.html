@@ -4,25 +4,28 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Canvas Flag </title>
-
+    <title>Elfenbenkysten Flagg</title>
+    <h1 style="color:white;">Elfenbenkysten flagg med "canvas", riktig fargekode og dimensjoner</h1>
 </head>
-<body>
 
-    
-  <canvas id="flag-germany" width="300px" height="75px" ></canvas>
+
+<body style="background-color:black;">
+  
+<canvas id="flag-elfenbenkysten" width="900px" height="533px" ></canvas>
 
 <script>
-    var getId1 = document.getElementById('flag-germany');
-   var getIdContext1  = getId1.getContext('2d');
-   getIdContext1.fillStyle = 'black';
-   getIdContext1.fillRect(0,0,150,25);   
-   getIdContext1.fillStyle = 'red';
-   getIdContext1.fillRect(0,25,150,25);   
-   getIdContext1.fillStyle = '#FFCF00';
-   getIdContext1.fillRect(0,50,150,25);
+const canvas = document.getElementById("flag-elfenbenkysten");
+const ctx = canvas.getContext("2d");
+
+
+ctx.fillStyle = "#f77f00";
+ctx.fillRect(0, 10, 266, 533); 
+ctx.fillStyle ="#fff";
+ctx.fillRect(266,10,266,533);
+ctx.fillStyle = "#009e60"
+ctx.fillRect(532,10,266,533);
+
 </script>
-  
-   
+
 </body>
 </html>
