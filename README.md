@@ -30,6 +30,9 @@ ________________________________________________________________________________
 
 # Flaggopgaven;
 
+## Oppgave 1
+Gjort.
+
 
 ## Oppgave2
 
@@ -60,8 +63,6 @@ Dette er kilder vi har brukt:
 * Github. (u.å) About projects(Classis). https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards
 
 * Github. (u.å) About projects. https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects
-
-
 
 
 
