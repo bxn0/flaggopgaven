@@ -17,8 +17,7 @@
 # Maria 
 ###### Jeg synes det var litt vanskelig å forstå GitHub, men fikk god hjelp fra Burak i gruppen samt videoen som ble publisert i emnet. Hele gruppen samarbeidet med innleveringsoppgaven. Foreløpig vil jeg si at min individuelle forståelse for Git og GitHub ligger på 2 av 5, men jeg vil jobbe for å forstå det bedre. Noen på gruppen ligger på et høyt nivå, noe som løfter den helhetlige forståelsen godt. 
 # Amadeus
-###### Burak kan mye om dette. Så prossesen var at Burak forklarte og hjalp alle. Derfor tok det litt tid siden han også måtte hjelpe en og en.  
-Min forståelse av git og github: 3
+###### Burak kan mye om dette. Så prossesen var at Burak forklarte og hjalp alle. Derfor tok det litt tid siden han også måtte hjelpe en og en.  Min forståelse av git og github: 3
 # Nicolai
 ###### Brukt veldig lite git tidligere, men med go hjelp av Burak gikk det veldig greit :) Foreløpig forståelse ligger rundt 3.
 # Malin
@@ -31,21 +30,40 @@ ________________________________________________________________________________
 
 # Flaggopgaven;
 
+## Oppgave 1
+Gjort.
+
 
 ## Oppgave2
 
 På denne siden velger vi og beskriver en måte å bruke GitHub Projects på. Vi bruker prosjektet til å planlegge, organisere og få oversikt over alle oppgavene. Strukturen er hierarkisk med en master på toppen (Burak), hvor alle resterende gruppemedlemmer under har sin egen branch. Prosjektstrukturen er at alle har egen branch vi jobber på, der alle merger det sammen til en side. 
+Vi brukte ogs "issues" på github, der Burak delte ut "todo", vi andre på gruppen fullførte dette og plasserte de på "in progress" mens vi jobbet, så plassert på "done"når oppgaven var ferrdig.
 
 
 
 ## Oppgave3
 
-Vi valgte å bruke board fordi vi synes det var mer oversiktlig og lettere å bruke. Man kan lett se hva som skal gjøres og hva som har blitt gjort. Det er også mulig å legge til flere vinduer. dette gjør at gruppa vår får en god oversikt over oppgaven.
+Vi valgte å bruke board fordi vi synes det var mer oversiktlig og lettere å bruke. Man kan lett se hva som skal gjøres og hva som har blitt gjort. Det er også mulig å legge til flere vinduer. dette gjør at gruppa vår får en god oversikt over oppgaven. 
 
 
 
 
 ## Kilder og Refleksjoner (Opp 4a, 4b, 4c)
+Flaggene er gjort og finnes i Repository, alle flaggene med link ligger også på "index.html"
+Dette er kilder vi har brukt: 
+
+* Developer Mozilla. (u.å). Recourses for developers, by developers. Hentet 26.sep 2022.fra https://developer.mozilla.org/en-US/
+
+* Wikipedia (2022, 29.juni) Flag of Mauritius. Commons wikimedia.https://commons.wikimedia.org/wiki/File:Flag_of_Mauritius.svg
+
+* Wikipeida (2022, 24,juli) Flag of Italy. Commons wikimedia. https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg
+
+* Wikipedia (2022, 30.aug) Flag of Côte d'Ivoire. Commons wikimedia. https://commons.wikimedia.org/wiki/File:Flag_of_Côte_d%27Ivoire.svg 
+
+* Github. (u.å) About projects(Classis). https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards
+
+* Github. (u.å) About projects. https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects
+
 
 
 
