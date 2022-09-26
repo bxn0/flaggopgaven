@@ -45,7 +45,7 @@ Vi valgte å bruke board fordi vi synes det var mer oversiktlig og lettere å br
 
 
 
-
+## Kilder og Refleksjoner (Opp 4a, 4b, 4c)
 
 
 
@@ -54,7 +54,7 @@ Vi valgte å bruke board fordi vi synes det var mer oversiktlig og lettere å br
 
 ## Oppgave 5b:
 
-## Oppgave 5c:  Kilder og Refleksjoner (Opp 4a, 4b, 4c):  
+## Oppgave 5c: 
 
 
 
