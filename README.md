@@ -67,6 +67,8 @@ Dette er kilder vi har brukt:
 
 * Github. (u.å) About projects. https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects
 
+* Karlsen, T.J (2021). Prosjektledelse:fra initiering til gevinstrealisering(5 utg.) Universitetsforlaget.
+
 
 
 
