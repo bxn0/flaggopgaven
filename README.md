@@ -50,6 +50,7 @@ Vi valgte å bruke board fordi vi synes det var mer oversiktlig og lettere å br
 
 ## Kilder og Refleksjoner (Opp 4a, 4b, 4c)
 Flaggene er gjort og finnes i Repository, alle flaggene med link ligger også på "index.html"
+https://bxn0.github.io/GRUPPE--REPOSITORY/
 Dette er kilder vi har brukt: 
 
 * Developer Mozilla. (u.å). Recourses for developers, by developers. Hentet 26.sep 2022.fra https://developer.mozilla.org/en-US/
