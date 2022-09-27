@@ -76,6 +76,7 @@ Dette er kilder vi har brukt:
 
 
 ## Oppgave 5b:
+I prosessen for valg av relevante arbeidsoppgaver startet vi med å fordele oppgavene i flere, mindre deler.  I lys av Karlsen hjelper dette for en effektiv oppfølging av gjennomføringen, og kalles "Work Breakdown Structure" (Karlsen, 2021, s. 89). Noen av oppgavene tildelte vi bestemte personer, mens andre lot vi stå "åpne" for å kunne velges. Vi benyttet oss av en Kanban for å få oversikt over hva som skal gjøres, hva som er underveis og hva som er utført (Karlsen, 2021, s. 89). 
 
 ## Oppgave 5c: 
 
