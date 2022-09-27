@@ -49,7 +49,7 @@ Vi valgte å bruke board fordi vi synes det var mer oversiktlig og lettere å br
 
 
 ## Kilder og Refleksjoner (Opp 4a, 4b, 4c)
-Flaggene er gjort og finnes i Repository, alle flaggene med link ligger også på "index.html"
+Flaggene er gjort og finnes i Repository, alle flaggene med link ligger også på: index.html
 
 https://bxn0.github.io/GRUPPE--REPOSITORY/
 
