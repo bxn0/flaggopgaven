@@ -73,20 +73,20 @@ Dette er kilder vi har brukt:
 
 
 ## Oppgave 5a:
-
+Vi valgte å bruke kanban board for å strukturere oppgaven vår. Med kanban-metoden så delte vi kanban-bordet i tre kolonner: «to do», «in progress» og «done.» Da var det mulig å se progresjonen vår og å ha en oversikt over hva som er gjort og hva som må gjøres.
 
 ## Oppgave 5b:
 I prosessen for valg av relevante arbeidsoppgaver startet vi med å fordele oppgavene i flere, mindre deler.  I lys av Karlsen hjelper dette for en effektiv oppfølging av gjennomføringen, og kalles "Work Breakdown Structure" (Karlsen, 2021, s. 89). Noen av oppgavene tildelte vi bestemte personer, mens andre lot vi stå "åpne" for å kunne velges. Vi benyttet oss av en Kanban for å få oversikt over hva som skal gjøres, hva som er underveis og hva som er utført (Karlsen, 2021, s. 89). 
 
 ## Oppgave 5c: 
+Mauritius flagget:
+Hver av de fargede radene på flagget er laget av en #. Her har personen valgt å bruke CSS-koden direkte inn i p-taggene.
 
+Bulgariske flagget:
+Her har personen valgt å flytte CSS-koden i en style-tag i <head> i stedet for å ha det i p-taggene slik som i Mauritius-flagget i første oppgaven. Her kobles CSS-koden til p-taggen med class´´white´´, der white er definert i style-taggen. (eks: .white [ ...)
 
-
-
-
-
-
-
+Elfenbenkysten flagget:
+Her har personen valgt å bruke java-script for å tegne flagget. <Canvas> definerer tegneområdet, og i script tegner vi selve fargene til <canvas>
 
 
 
